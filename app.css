@@ -1,0 +1,34 @@
+html{
+
+}
+
+.word{
+/*margin-right:100px;*/
+position: relative;
+}
+
+h1{
+  text-align: center;
+  font-family: 'AlphaClouds';
+  font-size:60px;
+  color: blue;
+}
+
+.center{
+  text-align: center;
+
+}
+
+
+@font-face {
+  font-family: 'AlphaClouds';
+  src: url('AlphaClouds.ttf');
+}
+
+h1 {
+
+}
+
+textarea {
+size:50px
+}
